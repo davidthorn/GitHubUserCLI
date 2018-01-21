@@ -1,12 +1,3 @@
-# GitHubUser
-
-## Documentation
-
-[GitHub User Documentation](https://github.com/davidthorn/GitHubUser/tree/develop/Sources/GitHubUser)
-
-## Installation
-
-
 # GitHub User CLI
 
 The GitHub User CLI provides the following commands
